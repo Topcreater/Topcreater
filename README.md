@@ -34,8 +34,27 @@ I have 4+ years of experience building scalable SaaS, ERP, fintech, marketplace 
 
 ## 📌 Featured Projects
 - **[TopSol Portfolio](https://github.com/TopSol/topsol-portfolio)**: Company website built with TypeScript
-- <!-- Project 2: one line, what it does + tech -->
-- <!-- Project 3: one line, what it does + tech -->
+
+Published apps shipped at VGA Value & Growth Advisory, where I built the backend systems, APIs, and admin dashboards:
+
+| App | What it does | Store |
+|---|---|---|
+| **BoDinar** | Family shopping marketplace | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tocaan.bodinar) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/bodinar-%D8%A8%D9%88%D8%AF%D9%8A%D9%86%D8%A7%D8%B1/id6752568435) |
+| **Yalla Shoot** | Book football pitches & join games | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.yallashoot) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/yalla-shoot/id6791621607) |
+| **Bar W Bahr** | Marketplace for land & sea gear | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.baroba7r) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/%D8%A8%D8%B1-%D9%88-%D8%A8%D8%AD%D8%B1-baroba7r/id6769342722) |
+| **Growth** | Find the right fitness trainer | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.growth) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/growth/id6746671308) |
+| **Pro Trade** | Trading signals & financial consultation | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.protrade) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/pro-trade/id6746671486) |
+| **Toots** | Social community app with live voice chat | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.toots) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/toots-app/id6766191676) |
+| **I-Serve** | Home services & verified maid profiles | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.iserve) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/i-serve-app/id6770913727) |
+| **We Care** | Book home services & wellness pros | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.wecare) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/wecare-%D9%88%D9%8A-%D9%83%D9%8A%D8%B1/id6761058124) |
+| **Munasib** | Hiring & freelancer marketplace | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.munasib) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/munasib/id6785226397) |
+| **RySay** | Social Q&A & interactive polls | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.jawab) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/rysay/id6756011361) |
+| **Lokal** | 45+ fashion boutiques in one app | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.lokal) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/lokal-app/id6809143898) |
+| **Al-Quality** | Book, buy & sell property | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.alquality) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/kw/app/al-quality/id6756966250) |
+| **Khatwa** | Boutique designers & custom fashion | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.Khatwa) |
+| **Asas** | Plan, build & furnish your project | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.asas) |
+| **Ikarus** | Courses, instructors & learning sessions | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.aspire) |
+| **Early Pad** | Smart NFC alarm app | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vga.earlypad) |
 
 ## 🎓 Education
 BS Software Engineering, Virtual University of Pakistan
@@ -48,7 +67,13 @@ BS Software Engineering, Virtual University of Pakistan
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Topcreater&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topcreater&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center"><b>Languages I Work With</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 <p align="center">
