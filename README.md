@@ -59,6 +59,7 @@ Published apps shipped at VGA Value & Growth Advisory, where I built the backend
 BS Software Engineering, Virtual University of Pakistan
 
 ## 📫 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-muhammad-mubashars-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mubashar-4969321b7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmubashar.dev@gmail.com)
 
