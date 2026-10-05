@@ -47,3 +47,7 @@ BS Software Engineering, Virtual University of Pakistan
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Topcreater&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Topcreater&layout=compact)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Topcreater&theme=dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Topcreater&theme=react-dark)
