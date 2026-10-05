@@ -33,7 +33,6 @@ I have 4+ years of experience building scalable SaaS, ERP, fintech, marketplace 
 - **Associate React Native Developer**, TOPSOL (Sep 2022 – Feb 2024)
 
 ## 📌 Featured Projects
-- **[TopSol Portfolio](https://github.com/TopSol/topsol-portfolio)**: Company website built with TypeScript
 
 Published apps shipped at VGA Value & Growth Advisory, where I built the backend systems, APIs, and admin dashboards:
 
